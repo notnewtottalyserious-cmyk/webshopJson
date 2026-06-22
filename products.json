@@ -1,11 +1,64 @@
 [
   {
     "id": 1,
-    "title": "testName",
+    "title": "Паук",
+    "price": 1,
+    "rating": 1.2,
+    "reviews": 1004,
+    "date": "2025-02-10",
+    "img": "https://placehold.co/600x400?text=Паук"
+  },
+  {
+    "id": 2,
+    "title": "Выдра",
     "price": 499,
-    "rating": 4.8,
-    "reviews": 142,
-    "date": "2026-06-10",
-    "img": "https://placehold.co/600x400?text=${title}"
+    "rating": 5,
+    "reviews": 14,
+    "date": "2026-03-12",
+    "img": "https://placehold.co/600x400?text=Выдра"
+  },
+  {
+    "id": 3,
+    "title": "Зонтик",
+    "price": 200,
+    "rating": 3.5,
+    "reviews": 54,
+    "date": "2027-01-01",
+    "img": "https://placehold.co/600x400?text=Зонтик"
+  },
+  {
+    "id": 4,
+    "title": "Неоновая лампа",
+    "price": 1005,
+    "rating": 2.6,
+    "reviews": 26,
+    "date": "2026-06-26",
+    "img": "https://placehold.co/600x400?text=Лампа"
+  },
+  {
+    "id": 5,
+    "title": "Обычный фонарик со вкусом клубники",
+    "price": 160,
+    "rating": 7.8,
+    "reviews": 71420,
+    "date": "2026-06-23",
+    "img": "https://placehold.co/600x400?text=Фонарик"
+  },{
+    "id": 6,
+    "title": "Холодец из носка",
+    "price": 4999,
+    "rating": 0.1,
+    "reviews": 245389,
+    "date": "1997-02-14",
+    "img": "https://placehold.co/600x400?text=Холодец"
+  },
+  {
+    "id": 7,
+    "title": "Жёлудь твёрже стали",
+    "price": 50000,
+    "rating": 999,
+    "reviews": 999999999,
+    "date": "3000-12-31",
+    "img": "https://placehold.co/600x400/5A2C07/orange?text=Жёлудь"
   }
 ]
