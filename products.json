@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": 'testName',
+    "price": 499,
+    "rating": 4.8,
+    "reviews": 142,
+    "date": "2026-06-10",
+    "img": "https://placehold.co/600x400?text=${title}"
+  }
+]
