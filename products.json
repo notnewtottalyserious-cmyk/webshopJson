@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": 'testName',
+    "title": "testName",
     "price": 499,
     "rating": 4.8,
     "reviews": 142,
